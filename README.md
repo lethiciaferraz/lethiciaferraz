@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lethiciaferraz
 - 👀 I’m interested in books, music, history and languages.
-- 🌱 I’m currently learning how to analyse development of systems.
+- 🌱 I’m currently learning how to analyse and develop systems.
 - 💞️ I’m looking to collaborate on learning processes and projects.
